@@ -87,7 +87,7 @@ const Footer = () => {
           <ul style={{ listStyle: "none", padding: 0 }}>
             <li>
               <a
-                href="#"
+                href="/"
                 style={{
                   color: "#fff",
                   textDecoration: "none",
@@ -100,7 +100,7 @@ const Footer = () => {
             </li>
             <li>
               <a
-                href="#"
+                href="/"
                 style={{
                   color: "#fff",
                   textDecoration: "none",
@@ -113,7 +113,7 @@ const Footer = () => {
             </li>
             <li>
               <a
-                href="#"
+                href="/"
                 style={{
                   color: "#fff",
                   textDecoration: "none",
@@ -126,7 +126,7 @@ const Footer = () => {
             </li>
             <li>
               <a
-                href="#"
+                href="/"
                 style={{
                   color: "#fff",
                   textDecoration: "none",
@@ -139,7 +139,7 @@ const Footer = () => {
             </li>
             <li>
               <a
-                href="#"
+                href="/"
                 style={{
                   color: "#fff",
                   textDecoration: "none",
@@ -158,30 +158,14 @@ const Footer = () => {
           <h4 style={{ fontSize: "18px", marginBottom: "15px" }}>QUICK LINKS</h4>
           <ul style={{ listStyle: "none", padding: 0 }}>
             <li>
-              <a
-                href="#"
-                style={{
-                  color: "#fff",
-                  textDecoration: "none",
-                  display: "block",
-                  marginBottom: "8px",
-                }}
-              >
+            
                 Orders & Shipping
-              </a>
+              
             </li>
             <li>
-              <a
-                href="#"
-                style={{
-                  color: "#fff",
-                  textDecoration: "none",
-                  display: "block",
-                  marginBottom: "8px",
-                }}
-              >
+              
                 Payment & Pricing
-              </a>
+          
             </li>
           </ul>
         </div>
@@ -196,18 +180,11 @@ const Footer = () => {
         >
           <h4 style={{ fontSize: "18px", marginBottom: "15px" }}>FOLLOW US</h4>
           <p>
-            <a
-              href="#"
-              style={{ color: "#fff", textDecoration: "none", marginRight: "10px" }}
-            >
+           
               Instagram
-            </a>
-            <a
-              href="#"
-              style={{ color: "#fff", textDecoration: "none" }}
-            >
+            
               LinkedIn
-            </a>
+          
           </p>
         </div>
       </div>
