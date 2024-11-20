@@ -1,6 +1,5 @@
 import React from "react";
-import "./FilterBar.css"
-import Line from "./Line";
+import "./FilterBar.css";
 
 const DiscoverOurProducts = () => {
   return (
