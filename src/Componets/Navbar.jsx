@@ -33,11 +33,11 @@ const Navbar = () => {
     </div>
     <div className="navbar-bottom">
       <ul>
-        <li><a href="#">SHOP</a></li>
-        <li><a href="#">SKILLS</a></li>
-        <li><a href="#">STORIES</a></li>
-        <li><a href="#">ABOUT</a></li>
-        <li><a href="#">CONTACT US</a></li>
+        <li>SHOP</li>
+        <li>SKILLS</li>
+        <li>STORIES</li>
+        <li>ABOUT</li>
+        <li>CONTACT US</li>
       </ul>
     </div>
   </div>
